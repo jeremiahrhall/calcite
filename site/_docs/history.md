@@ -28,7 +28,7 @@ For a full list of releases, see
 Downloads are available on the
 [downloads page]({{ site.baseurl }}/downloads/).
 
-## <a href="https://github.com/apache/calcite/releases/tag/calcite-1.25.0">1.25.0</a> / 2020-08-08
+## <a href="https://github.com/apache/calcite/releases/tag/calcite-1.25.0">1.25.0</a> / 2020-08-22
 {: #v1-25-0}
 
 This release comes shortly after [1.24.0](#v1-24-0) and removes methods 
