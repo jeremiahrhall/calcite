@@ -24,6 +24,7 @@ dependencies {
     api(project(":file"))
     api(project(":linq4j"))
 
+    implementation("org.postgresql:postgresql:42.2.12")
     implementation("com.fasterxml.jackson.core:jackson-core")
     implementation("com.fasterxml.jackson.core:jackson-databind")
     implementation("com.google.guava:guava")
